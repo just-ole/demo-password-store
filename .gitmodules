@@ -1,0 +1,3 @@
+[submodule ".available-keys"]
+	path = .available-keys
+	url = git@github.com:just-ole/demo-password-store-keys.git
